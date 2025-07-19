@@ -16,7 +16,7 @@ export const projects = [
       description: 'A personal developer portfolio built with Next.js and Tailwind.',
       techStack: 'Next.js, Tailwind CSS, TypeScript',
       image: Beu,
-      github: 'https://github.com/Beutife/portfolio',
+      github: 'https://github.com/Beutife/web3-portfolio',
       demo: 'https://web3-portfolio-liart.vercel.app/',
     },
     {
