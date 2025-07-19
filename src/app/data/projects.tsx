@@ -17,7 +17,7 @@ export const projects = [
       techStack: 'Next.js, Tailwind CSS, TypeScript',
       image: Beu,
       github: 'https://github.com/Beutife/portfolio',
-      demo: 'https://Beutife.vercel.app',
+      demo: 'https://web3-portfolio-liart.vercel.app/',
     },
     {
         title: 'Crypto Dashboard',
